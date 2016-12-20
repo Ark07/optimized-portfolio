@@ -35,6 +35,7 @@ Good PageSpeed Insights score achieved
   - prevents painting of whole page again and again
   - increases FPS
  - Reduced the number of background Animating Pizzas(200 to 40)
+ 
 ***
 
 #### Part 3: Hosting the site
