@@ -40,8 +40,8 @@ Good PageSpeed Insights score achieved
 
 #### Part 3: Hosting the site
 
-    Github pages used
-    https://ark07.github.io/optimized-portfolio/
+    [Github pages](https://ark07.github.io/optimized-portfolio/) used
+    
 
 ***
 ### Customization with Bootstrap
